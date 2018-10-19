@@ -2,8 +2,7 @@ Project Title: SUDOKU SOLUTION VALIDATOR
 
 Project Group Number: Project 17
 
-Team Members:
-
+Team Members: 
 Adithya Baskaran 
 Mrinalini Gopalakrishnan 
 Smitha Eshwarahalli Ramesh 
