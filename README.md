@@ -14,6 +14,7 @@ Multithreading is a vital part of any software applications today. It provides a
 2. The percentage of task which can be run in parallel. For some applications, a significant portion of the functionality may be executed in parallel. For some others, the bulk of the functionality may involve operations like I/O which do not benefit from multithreading.
 3. The number of processing cores
 4. How many threads to be created for optimum performance?
+
 In this project, we propose to implement a Sudoku Solution Validator. The purpose of Sudoku Solution Validator is to validate a given solution for Sudoku based on the game rules. We intend to implement the Sudoku Solution Validator using different threading approaches and study the effect of performance.
 1. Create a separate thread to perform all column validations, a thread to perform all row validations and 9 threads to validate each of the 3*# subgrids.
 2. Create 9 threads to validate each of the 9 columns, 9 threads to validate each of the 9 rows and 9 threads to validate each of the 3*3 subgrids.
