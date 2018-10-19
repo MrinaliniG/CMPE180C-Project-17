@@ -5,9 +5,7 @@ Project Group Number: Project 17
 Team Members:
 
 Adithya Baskaran 
-
 Mrinalini Gopalakrishnan 
-
 Smitha Eshwarahalli Ramesh 
 
 
