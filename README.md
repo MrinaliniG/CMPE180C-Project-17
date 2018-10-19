@@ -3,8 +3,11 @@ Project Title: SUDOKU SOLUTION VALIDATOR
 Project Group Number: Project 17
 
 Team Members: 
-Adithya Baskaran 
-Mrinalini Gopalakrishnan 
+
+Adithya Baskaran
+
+Mrinalini Gopalakrishnan
+
 Smitha Eshwarahalli Ramesh 
 
 
@@ -20,3 +23,4 @@ In this project, we propose to implement a Sudoku Solution Validator. The purpos
 1. Create a separate thread to perform all column validations, a thread to perform all row validations and 9 threads to validate each of the 3*# subgrids.
 2. Create 9 threads to validate each of the 9 columns, 9 threads to validate each of the 9 rows and 9 threads to validate each of the 3*3 subgrids.
 3. Create a single threaded system to perform sudoku validation
+
